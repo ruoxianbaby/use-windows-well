@@ -4,9 +4,7 @@ Author: Rancho
 Update Date：2021-02-05  
 使用本文档：`Ctrl+F` 搜索关键字，比如`截图`  
 
-#### 翻墙
-keywords：科学上网，vpn  
-
+## 入门使用
 
 #### 剪切板
 keywords: 简单，剪切板历史内容，Windows是自带剪切板  
@@ -21,10 +19,18 @@ keywords：截图
 按键`Win + Shift + S` 唤起snip截图  
 
 #### 播放视频  
-keywords：看视频，视频软件，支持格式丰富，轻量，播放器
+keywords：看视频，视频软件，支持格式丰富，轻量，播放器  
 [PotPlayer](https://daumpotplayer.com/wp-content/uploads/2019/11/PotPlayerSetup64.exe) Windows上最好用的视频播放软件  
 
 #### 快捷键  
 - `Win + P` 快速切换投屏模式    
 - `Win + V` 打开截切板历史  
 - `Win + D` 快速回到桌面（再次按下`Win + D` 回到先前窗口状态， 如回到桌面有其它操作，则不可返回先前窗口状态）  
+
+## 进阶使用
+
+#### 翻墙
+keywords：科学上网，vpn  
+
+#### 下载视频网站的视频  
+
