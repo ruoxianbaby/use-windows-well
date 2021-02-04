@@ -1,6 +1,6 @@
 ## use-windows-well
 About: 优雅、高效的使用windows（Win 10，生产力向）  
-Author: Rancho  
+Author: ruoxianbaby<[ruo123xian@gmail.com](ruo123xian@gmail.com)>  
 Update Date：2021-02-05  
 使用本文档：`Ctrl+F` 搜索关键字，比如`截图`  
 
