@@ -70,6 +70,7 @@ windows商店搜索安装`ubuntu`
 
 #### 翻墙
 keywords：科学上网，vpn  
+https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0  
 
 #### 下载视频网站的视频  
 
