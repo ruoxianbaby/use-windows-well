@@ -12,7 +12,8 @@ keywords: 简单，剪切板历史内容，Windows自带剪切板
 
 #### 屏幕录制
 keywords：录屏， 开源， 免费， 简洁  
-[Captura](https://github.com/MathewSachin/Captura/releases/tag/v8.0.0) Windows上最好用的屏幕录制软件 [备用下载地址](https://captura.updatestar.com/)
+- [Captura](https://github.com/MathewSachin/Captura/releases/tag/v8.0.0) Windows上最好用的屏幕录制软件 [备用下载地址](https://captura.updatestar.com/)  
+- `Win + G`Windows xbox内置录屏
 
 #### 截屏
 keywords：截图  
@@ -21,6 +22,12 @@ keywords：截图
 #### 播放视频  
 keywords：看视频，视频软件，支持格式丰富，轻量，播放器  
 [PotPlayer](https://daumpotplayer.com/wp-content/uploads/2019/11/PotPlayerSetup64.exe) Windows上最好用的视频播放软件  
+
+#### 解压缩
+keywords：rar， zip  
+下载[7zip](https://www.7-zip.org/)
+
+
 
 #### 清理C盘
 keywords：c盘满了怎么办，存储空间不足  
