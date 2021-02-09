@@ -22,6 +22,17 @@ keywords：截图
 keywords：看视频，视频软件，支持格式丰富，轻量，播放器  
 [PotPlayer](https://daumpotplayer.com/wp-content/uploads/2019/11/PotPlayerSetup64.exe) Windows上最好用的视频播放软件  
 
+#### c盘满了
+keywords：c盘满了，存储空间不足  
+- 清理垃圾， `右击c盘 -> 属性 -> 磁盘清理 -> 清理系统文件 -> 勾选你要清理的文件（old windows一定要选）`  
+- 卸载不常用软件，`设置 -> 应用 -> 点击列表不常用软件图标 -> 卸载`  
+- **谨慎操作！** 删除应用软件数据  
+    - `C:\ProgramData`  
+    - `C:\Users\{user name}\`  
+    - `C:\Users\{user name}\AppData`  
+- `此电脑 -> 右击桌面 -> 属性 -> 位置 -> C 改成其它盘`  
+- `此电脑 -> 右击文档 -> 属性 -> 位置 -> C 改成其它盘`  
+- `此电脑 -> 右击下载 -> 属性 -> 位置 -> C 改成其它盘`  
 #### 快捷键  
 - `Win + P` 快速切换投屏模式    
 - `Win + V` 打开截切板历史  
