@@ -34,6 +34,7 @@ keywords：c盘满了怎么办，存储空间不足
 - `打开此电脑 -> 右击文档 -> 属性 -> 位置 -> C 改成其它盘`  
 - `打开此电脑 -> 右击下载 -> 属性 -> 位置 -> C 改成其它盘`  
 - **谨慎操作！** 重置此电脑 `设置搜索重置`  
+
 #### 快捷键  
 - `Win + P` 快速切换投屏模式    
 - `Win + V` 打开截切板历史  
@@ -50,7 +51,7 @@ keywords：终端，powershell
 keywords：linux，ubuntu,linux命令行  
 windows商店搜索安装`ubuntu`
 
-#### docker
+#### Docker
 [下载](https://www.docker.com/get-started)（需要开启cpu虚拟化）  
 [Get Started](https://docs.docker.com/docker-for-windows/install/)    
 
@@ -61,14 +62,13 @@ windows商店搜索安装`ubuntu`
 #### 翻墙
 keywords：科学上网，vpn  
 
-## Todos
-- ffmpeg  
-- you-get  
-- 多桌面模式  
-- everythings  
-- Dism++  
-- wox  
-
-
 #### 下载视频网站的视频  
+
+## Todos
+- [] ffmpeg  
+- [] you-get  
+- [] 多桌面模式  
+- [] everythings  
+- [] Dism++  
+- [] wox  
 
