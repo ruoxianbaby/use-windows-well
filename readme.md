@@ -76,7 +76,7 @@ keywords：科学上网，vpn
 - [ ] ffmpeg  
 - [ ] you-get  
 - [ ] 多桌面模式  
-- [ ] everythings  
+- [ ] everythings https://www.voidtools.com/  
 - [ ] Dism++  
 - [ ] wox  
 
