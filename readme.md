@@ -7,7 +7,7 @@ Update Date：2021-02-05
 ## 入门使用
 
 #### 剪切板
-keywords: 简单，剪切板历史内容，Windows是自带剪切板  
+keywords: 简单，剪切板历史内容，Windows自带剪切板  
 查看剪切板历史、使用云剪切板，按键`Win + V`,如果登入微软账号，可在多个设备间使用剪切的内容  
 
 #### 屏幕录制
@@ -28,6 +28,23 @@ keywords：看视频，视频软件，支持格式丰富，轻量，播放器
 - `Win + D` 快速回到桌面（再次按下`Win + D` 回到先前窗口状态， 如回到桌面有其它操作，则不可返回先前窗口状态）  
 
 ## 进阶使用
+
+#### 命令行
+keywords：终端，powershell
+- powershell, 按下`Win + R`，输入`powershell`并回车  
+- Windows Terminal, windows商店搜索安装`Windows Terminal` (支持多Tabs)
+
+#### Linux（Ubuntu）
+keywords：linux，ubuntu,linux命令行  
+windows商店搜索安装`ubuntu`
+
+#### docker
+[下载](https://www.docker.com/get-started)（需要开启cpu虚拟化）  
+[Get Started](https://docs.docker.com/docker-for-windows/install/)    
+
+#### 虚拟机
+[VM Workstation](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)  
+> 激活码 `ZF3R0-FHED2-M80TY-8QYGC-NPKYFYF390-0HF8P-M81RQ-2DXQE-M2UT6ZF71R-DMX85-08DQY-8YMNC-PPHV8`  
 
 #### 翻墙
 keywords：科学上网，vpn  
