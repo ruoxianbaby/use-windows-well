@@ -65,10 +65,10 @@ keywords：科学上网，vpn
 #### 下载视频网站的视频  
 
 ## Todos
-- [] ffmpeg  
-- [] you-get  
-- [] 多桌面模式  
-- [] everythings  
-- [] Dism++  
-- [] wox  
+- [ ] ffmpeg  
+- [ ] you-get  
+- [ ] 多桌面模式  
+- [ ] everythings  
+- [ ] Dism++  
+- [ ] wox  
 
