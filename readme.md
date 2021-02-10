@@ -25,7 +25,11 @@ keywords：看视频，视频软件，支持格式丰富，轻量，播放器
 
 #### 解压缩
 keywords：rar， zip  
-下载[7zip](https://www.7-zip.org/)
+下载[7zip](https://www.7-zip.org/)  
+
+#### 下载
+keywords：bt下载， Aria2, 轻量下载工具  
+[下载motrix](https://motrix.app/)(内核为Aria2, 极其冷门资源仍需迅雷)  
 
 #### 清理C盘
 keywords：c盘满了怎么办，存储空间不足  
@@ -83,6 +87,5 @@ https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0
 - [ ] wox  
 - [ ] Scoop - Windows 的命令行安装程序  
 - [ ] quicklook  
-- [ ] quicklook  
-- [ ] quicklook  
+- [ ] quicklook    
 
