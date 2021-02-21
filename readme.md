@@ -31,6 +31,12 @@ keywords：rar， zip
 keywords：bt下载， Aria2, 轻量下载工具  
 [下载motrix](https://motrix.app/)(内核为Aria2, 极其冷门资源仍需迅雷)  
 
+
+#### 翻墙
+keywords：科学上网，vpn  
+[下载即可使用](https://share.weiyun.com/OUyYcPvf)  
+~~https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0~~  
+
 #### 清理C盘
 keywords：c盘满了怎么办，存储空间不足  
 - 清理垃圾， `右击c盘 -> 属性 -> 磁盘清理 -> 清理系统文件 -> 勾选你要清理的文件（old windows一定要选）`  
@@ -72,10 +78,6 @@ windows商店搜索安装`ubuntu`
 [VM Workstation](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)  
 > 激活码 `ZF3R0-FHED2-M80TY-8QYGC-NPKYFYF390-0HF8P-M81RQ-2DXQE-M2UT6ZF71R-DMX85-08DQY-8YMNC-PPHV8`  
 
-#### 翻墙
-keywords：科学上网，vpn  
-[下载即可使用](https://share.weiyun.com/OUyYcPvf)  
-~~https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0~~  
 
 #### 下载视频网站的视频  
 
