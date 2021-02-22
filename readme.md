@@ -34,8 +34,8 @@ keywords：bt下载， Aria2, 轻量下载工具
 
 #### 翻墙
 keywords：科学上网，vpn  
-[下载即可使用](https://share.weiyun.com/OUyYcPvf)  
-~~https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0~~  
+[点击下载 即可使用](https://share.weiyun.com/OUyYcPvf)  
+~~核心v2ray文件`https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0`~~  
 
 #### 清理C盘
 keywords：c盘满了怎么办，存储空间不足  
